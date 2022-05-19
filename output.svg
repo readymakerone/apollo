@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1300mm" height="450mm" viewBox="0 0 1300 450" version="1.1" id="svg1831">
+  <defs id="defs1825"/>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1" inkscape:cx="3465.875" inkscape:cy="769" inkscape:document-units="mm" inkscape:current-layer="fretboard" showgrid="false" showguide="false" inkscape:guide-bbox="true" inkscape:window-width="1920" inkscape:window-height="1017" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:pagecheckerboard="0">
+    <sodipodi:guide position="1000,225.0" orientation="0,1" id="centerline" inkscape:locked="true"/>
+    <sodipodi:guide position="1000,225.0" orientation="1,0" id="nutline" inkscape:locked="true"/>
+    <sodipodi:guide position="376.1,225.0" orientation="1,0" id="bridgeline" inkscape:locked="true"/>
+    <sodipodi:guide position="532.075,225.0" orientation="1,0" id="24fretline" inkscape:locked="true"/>
+  </sodipodi:namedview>
+  <metadata id="metadata1828">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode="layer" id="fretboard" inkscape:label="Fretboard" style="display:inline">
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 542.7877568420122,253.27385741105732 0.0,-56.54771482211464 457.2122431579878,6.023857411057321 0,44.5 z" id="boardpath"/>
+  </g>
+  <g inkscape:groupmode="layer" id="frets" inkscape:label="Frets" style="display:inline">
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 964.9831836821086,247.7113531497565 0.0,-45.42270629951298" id="fret0001"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 931.9317102477577,248.14681253688642 0.0,-46.29362507377283" id="fret0002"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 900.7352734767925,248.55783146661446 0.0,-47.11566293322892" id="fret0003"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 871.2897581614799,248.9457816764107 0.0,-47.89156335282138" id="fret0004"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 843.4968926316808,249.31195791403684 0.0,-48.62391582807368" id="fret0005"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 817.2639207822871,249.65758225864658 0.0,-49.31516451729317" id="fret0006"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 792.5032925083423,249.98380819936116 0.0,-49.96761639872233" id="fret0007"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 769.1323715147057,250.29172448493208 0.0,-50.58344896986415" id="fret0008"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 747.0731595250988,250.58235875733882 0.0,-51.16471751467765" id="fret0009"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 726.2520359701089,250.85668098144848 0.0,-51.713361962896954" id="fret0010"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 706.5995122853822,251.11560668218328 0.0,-52.23121336436657" id="fret0011"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 688.05,251.36 0.0,-52.72000000000003" id="fret0012"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 670.5415918410542,251.59067657487824 0.0,-53.18135314975649" id="fret0013"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 654.0158551238787,251.8084062684432 0.0,-53.616812536886414" id="fret0014"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 638.4176367383961,252.01391573330724 0.0,-54.02783146661449" id="fret0015"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 623.6948790807398,252.20789083820534 0.0,-54.41578167641069" id="fret0016"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 609.7984463158405,252.39097895701843 0.0,-54.781957914036866" id="fret0017"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 596.6819603911435,252.56379112932328 0.0,-55.127582258646555" id="fret0018"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 584.3016462541711,252.72690409968058 0.0,-55.45380819936116" id="fret0019"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 572.6161857573529,252.88086224246604 0.0,-55.761724484932074" id="fret0020"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 561.5865797625494,253.0261793786694 0.0,-56.05235875733882" id="fret0021"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 551.1760179850545,253.16334049072424 0.0,-56.326680981448476" id="fret0022"/>
+  </g>
+  <g inkscape:groupmode="layer" id="fretmarkers" inkscape:label="Fret Markers" style="display:inline">
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="fretmarket0001" cx="916.3334918622751" cy="225.0" r="2.375"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="fretmarket0001" cx="857.3933253965804" cy="225.0" r="2.375"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="fretmarket0001" cx="804.8836066453147" cy="225.0" r="2.375"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="fretmarket0001" cx="758.1027655199023" cy="225.0" r="2.375"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="fretmarket0001" cx="697.3247561426911" cy="211.5268350041264" r="2.375"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="fretmarket0002" cx="697.3247561426911" cy="238.4731649958736" r="2.375"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="fretmarket0001" cx="646.2167459311374" cy="225.0" r="2.375"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="fretmarket0001" cx="616.7466626982902" cy="225.0" r="2.375"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="fretmarket0001" cx="590.4918033226573" cy="225.0" r="2.375"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="fretmarket0001" cx="567.1013827599511" cy="225.0" r="2.375"/>
+  </g>
+  <g inkscape:groupmode="layer" id="headstock" inkscape:label="Headstock" style="display:inline">
+    <rect style="fill:none;fill-rule:evenodd;stroke-width:0;stroke:#000000;stroke-opacity:1" id="nut" width="4.8" height="44.5" x="1000" y="202.75"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="lefttunerpost0000" cx="1040.0" cy="204.22" r="3"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="lefttunerhole0000" cx="1040.0" cy="204.22" r="4.165"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 1000,207.22 40.0,0.0" id="leftheadstockstring0000"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="lefttunerpost0001" cx="1061.8884853163904" cy="211.332" r="3"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="lefttunerhole0001" cx="1061.8884853163904" cy="211.332" r="4.165"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 1000,214.332 61.888485316390415,0.0" id="leftheadstockstring0001"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="lefttunerpost0002" cx="1083.7769706327808" cy="218.444" r="3"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="lefttunerhole0002" cx="1083.7769706327808" cy="218.444" r="4.165"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 1000,221.444 83.77697063278083,0.0" id="leftheadstockstring0002"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="lefttunerpost0003" cx="1105.6654559491712" cy="225.556" r="3"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="lefttunerhole0003" cx="1105.6654559491712" cy="225.556" r="4.165"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 1000,228.556 105.66545594917125,0.0" id="leftheadstockstring0003"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="lefttunerpost0004" cx="1127.5539412655617" cy="232.668" r="3"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="lefttunerhole0004" cx="1127.5539412655617" cy="232.668" r="4.165"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 1000,235.668 127.55394126556166,0.0" id="leftheadstockstring0004"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 1040.056070536505,190.56920950659133 117.3647273626907,38.134111563143335" id="headstockleft"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="lefttunerpost0005" cx="1149.442426581952" cy="239.78" r="3"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="lefttunerhole0005" cx="1149.442426581952" cy="239.78" r="4.165"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 1000,242.78 149.44242658195208,0.0" id="leftheadstockstring0005"/>
+  </g>
+  <g inkscape:groupmode="layer" id="pickups" inkscape:label="Pickups" style="display:inline">
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 538.2877568420122,260.0 -12.5,0.0 0.0,7.0 -13.0,0.0 0.0,-7.0 -12.5,0.0 0.0,-70.0 12.5,0.0 0.0,-7.0 13.0,0.0 0.0,7.0 12.5,0.0 z" id="neckpickup"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 541.7877568420122,269.5 -45.0,0.0 0.0,-89.0 45.0,0.0 z" id="neckring"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="neckmountholetop" cx="519.2877568420122" cy="186.25" r="0.75"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="neckmountholebot" cx="519.2877568420122" cy="263.75" r="0.75"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 436.65000000000003,260.0 -12.5,0.0 0.0,7.0 -13.0,0.0 0.0,-7.0 -12.5,0.0 0.0,-70.0 12.5,0.0 0.0,-7.0 13.0,0.0 0.0,7.0 12.5,0.0 z" id="bridgepickup"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 440.15000000000003,269.5 -45.0,0.0 0.0,-89.0 45.0,0.0 z" id="bridgering"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="bridgemountholetop" cx="417.65000000000003" cy="186.25" r="0.75"/>
+    <circle style="fill:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="bridgemountholebot" cx="417.65000000000003" cy="263.75" r="0.75"/>
+  </g>
+  <g inkscape:groupmode="layer" id="strings" inkscape:label="Strings" style="display:inline">
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 1000,207.22 -623.9,-8.219999999999999" id="string1"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 1000,214.332 -623.9,-4.931999999999988" id="string2"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 1000,221.444 -623.9,-1.643999999999977" id="string3"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 1000,228.556 -623.9,1.643999999999977" id="string4"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 1000,235.668 -623.9,4.931999999999988" id="string5"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 1000,242.78 -623.9,8.219999999999999" id="string6"/>
+  </g>
+</svg>
